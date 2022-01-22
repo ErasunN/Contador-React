@@ -19,3 +19,11 @@ body {
     height: 50px;
     background-color: #333;
 }
+
+.positivo {
+    color: lime;
+}
+
+.negativo {
+    color: tomato;
+}
