@@ -1,0 +1,26 @@
+{
+  "name": "Future Calculator",
+  "short_name": "Future Calculator",
+  "description": "This is an awesome Future Calculator",
+  "background_color": "#333333",
+  "theme_color": "#4db6ac",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "assets/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
